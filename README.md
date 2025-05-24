@@ -1,4 +1,4 @@
-<div align="center">
+<di="center">
     <img src="https://github.com/vsouza/awesome-ios/blob/master/header.png?raw=true" alt="Awesome">
 </div>
 
